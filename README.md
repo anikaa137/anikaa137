@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-7dab2.web.app/](https://portfolio-7dab2.web.app/)
 
-- 💬 Ask me about **JavaScript** **ES6** **React**
+- 💬 Ask me about **JavaScript, ES6, React**
 
 - 📫 How to reach me **anikaa137@gmail.com**
 
