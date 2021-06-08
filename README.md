@@ -1,6 +1,6 @@
-<!-- ![MasterHead](https://i.ibb.co/0sRTKRp/logo.png) -->
+![MasterHead](https://i.ibb.co/CnZPxR3/websites-banner.jpg)
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center">Hi 👋, I'm Amina Anika</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right"   src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="coding"  width="200" height="220" />
